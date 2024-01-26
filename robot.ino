@@ -6,11 +6,6 @@
 #include <Servo.h>
 #include "DHT.h"
 
-#https://www.instructables.com/Arduino-Reading-Sensor-Data-Using-Bluetooth/#discuss
-#https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
-#https://tutoduino.fr/en/beginners-corner/temperature-sensor/
-
-
 Servo frservo;
 Servo flservo;
 Servo brservo;
